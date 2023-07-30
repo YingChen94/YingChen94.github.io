@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a biology PhD student at Queen's University, Canada. I study the evolutionary history of trilling chorus frogs in eastern Canada using genomic tools. 
+I am a biology PhD student at Queen's University, Canada. I study the evolutionary history of trilling chorus frogs in eastern Canada. 
 
-My blogs share about bioinformatic tricks I learned or figured during my research. Hope this will help some of you as well!
+In Blog Posts, I share bioinformatic tricks I learned during my research.
 
-In the natural history section I share my photos and observations of wildlife. 
+In Natural History, I share my photos and observations of wildlife. 
 
 Thank you for visiting my website! 
