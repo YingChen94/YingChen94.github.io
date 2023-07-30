@@ -12,7 +12,7 @@ ___
   **Chen Y**, Clemente-Carvalho RBG, Lougheed SC. 2021. Seasonal shift in the age structure of calling males within a spring peeper (<i>Pseudacris crucifer</i>) chorus. Herpetological Review 52(3): 499-506. <a href="https://www.researchgate.net/publication/362886052_Seasonal_shift_in_the_age_structure_of_calling_males_within_a_Spring_Peeper_Pseudacris_crucifer_chorus"> link </a>
 
 ## Other publication
-  **Chen Y**. 2021. Herpetofaunal research at the Queen’s University Biological Station. The Canadian Herpetologist 11(1): 10-14. [pdf](https://YingChen94.github.io/files/)
+  **Chen Y**. 2021. Herpetofaunal research at the Queen’s University Biological Station. The Canadian Herpetologist 11(1): 10-14. [pdf](https://YingChen94.github.io/files/QUBS-herps.pdf)
 
 
 
