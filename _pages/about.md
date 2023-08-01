@@ -12,6 +12,6 @@ I am a biology PhD student at Queen's University, Canada. I study the evolutiona
 
 In Blog Posts, I share bioinformatic tricks I learned during my research.
 
-In Natural History, I share my photos and observations of wildlife. 
+In Wildlife, I share my photos and observations of wildlife. 
 
 Thank you for visiting my website! 
