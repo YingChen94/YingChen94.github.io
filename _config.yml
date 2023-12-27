@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Ying Chen"
+title                    : "Ying Chen's personal website"
 title_separator          : "-"
 name                     : &name "Ying Chen"
 description              : &description "PhD student at Queen's University"
