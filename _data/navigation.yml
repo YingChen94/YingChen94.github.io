@@ -6,8 +6,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Wildlife"
-    url: /wildlife/
+#   - title: "Wildlife"
+#    url: /wildlife/
 
   - title: "Wildlife Gallery"
     url: /wildlife-gallery/
