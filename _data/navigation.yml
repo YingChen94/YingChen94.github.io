@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Awards & Grants"
+    url: /awards_grants/
+
   - title: "Blog Posts"
     url: /year-archive/
 
