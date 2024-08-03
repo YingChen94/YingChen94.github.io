@@ -17,5 +17,5 @@ author_profile: true
 
 2017-2019,2021-2023 &emsp;&emsp; **Department of Biology Graduate Student Conference Award**, Queen’s University ($1,000 CAD total)<br>
 2018 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Student Poster Award**, Canadian Herpetological Society Annual Meeting<br>
-2017-2021 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **The International Student Tuition Award**, Queen’s University ($60,000 CAD total)<br>
+2017-2021 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **The International Student Tuition Award**, Queen’s University ($60,000 CAD total)<br>
 2015 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Tongji-Queen's 2+2 Program in Environmental Science Admission Award**, Tongji University (¥10,000 CNY)
