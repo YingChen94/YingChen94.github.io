@@ -1,4 +1,8 @@
-## A reading list for population genetics
+---
+title: 'A reading list for population genetics'
+date: 2024-06-10
+
+---
 
 A solid understanding of population genetics theory is necessary and essential for correct interpretation of genomic data and patterns. Here I compiled a list of papers that I found helpful to build up the theoretical foundation. 
 
