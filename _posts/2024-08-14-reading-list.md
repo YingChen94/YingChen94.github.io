@@ -6,7 +6,7 @@ date: 2024-06-10
 
 A solid understanding of population genetics theory is necessary and essential for correct interpretation of genomic data and patterns. Here I compiled a list of papers that I found helpful to build up the theoretical foundation. 
 
-### Development of sequencing technology
+### Different types of genetic data
 
 Allendorf FW. 2017. Genetics and the conservation of natural populations: allozymes to genomes. Molecular Ecology 26(2):420-430. [link](https://doi.org/10.1111/mec.13948)
 
