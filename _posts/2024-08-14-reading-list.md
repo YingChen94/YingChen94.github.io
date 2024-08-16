@@ -17,3 +17,7 @@ A solid understanding of population genetics theory is necessary and essential f
 ### How to interpret STRUCTURE or ADMIXTURE results?
 
 - Lawson DJ, van Dorp L, Falush D. 2018. A tutorial on how not to over-interpret STRUCTURE and ADMIXTURE bar plots. Nature Communications 9(1):3258. [link](https://doi.org/10.1038/s41467-018-05257-7) &nbsp; &nbsp; ***Admixture ancestry can be a result of different demographic histories, inferences of which need to be tested explicitly using other methods.***
+
+### How to interpret PCA plots?
+
+- Frichot E, Schoville S, Bouchard G, François O. 2012. Correcting principal component maps for effects of spatial autocorrelation in population genetic data. Frontiers in Genetics 3:1-9. [link](https://doi.org/10.3389/fgene.2012.00254) 
