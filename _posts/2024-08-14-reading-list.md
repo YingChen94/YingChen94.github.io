@@ -1,6 +1,6 @@
 ---
 title: 'A reading list for population genetics'
-date: 2024-06-10
+date: 2024-08-14
 
 ---
 
