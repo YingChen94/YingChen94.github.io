@@ -20,4 +20,4 @@ A solid understanding of population genetics theory is necessary and essential f
 
 ### How to interpret PCA plots?
 
-- Frichot E, Schoville S, Bouchard G, François O. 2012. Correcting principal component maps for effects of spatial autocorrelation in population genetic data. Frontiers in Genetics 3:1-9. [link](https://doi.org/10.3389/fgene.2012.00254) 
+- Frichot E, Schoville S, Bouchard G, François O. 2012. Correcting principal component maps for effects of spatial autocorrelation in population genetic data. Frontiers in Genetics 3:1-9. [link](https://doi.org/10.3389/fgene.2012.00254) &nbsp; &nbsp; ***horseshoe patterns due to isolation-by-distance***
