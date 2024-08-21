@@ -15,6 +15,10 @@ A solid understanding of population genetics theory is necessary and essential f
 
 - Waples RS. 2015. Testing for Hardy–Weinberg proportions: have we lost the plot? Journal of Heredity 106(1):1-19. [link](https://doi.org/10.1093/jhered/esu062)
 
+### How to estimate effective population size?
+
+- Pudovkin AI, Zaykin DV, Hedgecock D. 1996. On the potential for estimating the effective number of breeders from heterozygote-excess in progeny. Genetics 144(1):383-387. [link](https://doi.org/10.1093/genetics/144.1.383) &nbsp; &nbsp; ***heterozygote-excess method***
+
 ### How to interpret STRUCTURE or ADMIXTURE results?
 
 - Porras-Hurtado L, Ruiz Y, Santos C, Phillips C, Carracedo Á, Lareu MV. 2013. An overview of STRUCTURE: applications, parameter settings, and supporting software. Frontiers in Genetics 4:1-13. [link](https://doi.org/10.3389/fgene.2013.00098) 
