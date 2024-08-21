@@ -4,7 +4,7 @@ date: 2024-08-14
 
 ---
 
-A solid understanding of population genetics theory is necessary and essential for correct interpretation of genomic data and patterns. Here I compiled a list of papers that I found helpful to build up the knowledge foundation for understanding the theory and analytical methods. 
+A solid understanding of population genetics theory is necessary and essential for correct interpretation of genomic data and patterns. Here I compiled a list of papers that I found helpful to build up the knowledge foundation for understanding the theory and analytical methods. (This list will be continuously updated.)
 
 ### Books
 
@@ -16,9 +16,10 @@ A solid understanding of population genetics theory is necessary and essential f
 - Charlesworth B, Charlesworth D. 2017. Population genetics from 1966 to 2016. Heredity 118(1):2-9. [link](https://doi.org/10.1038/hdy.2016.55) &nbsp; &nbsp; ***Some major questions and controversies in population genetics.***
 - Allendorf FW. 2017. Genetics and the conservation of natural populations: allozymes to genomes. Molecular Ecology 26(2):420-430. [link](https://doi.org/10.1111/mec.13948) &nbsp; &nbsp; ***Different types of genetic data.***
 
-### How to test Hardy–Weinberg proportions?
+### Basic theory
 
-- Waples RS. 2015. Testing for Hardy–Weinberg proportions: have we lost the plot? Journal of Heredity 106(1):1-19. [link](https://doi.org/10.1093/jhered/esu062)
+- Waples RS. 2015. Testing for Hardy–Weinberg proportions: have we lost the plot? Journal of Heredity 106(1):1-19. [link](https://doi.org/10.1093/jhered/esu062) ***Hardy–Weinberg equlibrium***
+- Robertson A. 1965. The interpretation of genotypic ratios in domestic animal populations. Animal Production 7(3):319-324. [link](https://doi.org/10.1017/S0003356100025770)  &nbsp; &nbsp; ***small population size leads to an excess of heterozygotes***
 
 ### How to estimate effective population size?
 
