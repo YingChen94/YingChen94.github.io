@@ -15,6 +15,7 @@ A solid understanding of population genetics theory is necessary and essential f
 
 - Waples RS. 2015. Testing for Hardy–Weinberg proportions: have we lost the plot? Journal of Heredity 106(1):1-19. [link](https://doi.org/10.1093/jhered/esu062) ***Hardy–Weinberg equlibrium***
 - Robertson A. 1965. The interpretation of genotypic ratios in domestic animal populations. Animal Production 7(3):319-324. [link](https://doi.org/10.1017/S0003356100025770)  &nbsp; &nbsp; ***Difference in gene frequencies between sexes in the parents will cause an excess of heterozygotes in the progeny. Such differences in gene frequency will arise by chance if population size is small.***
+- ***A restriction in parental population size causes a drift in gene frequency one generation before it causes a decline in heterozygosity.***
 
 ### Overview articles
 
