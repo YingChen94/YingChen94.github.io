@@ -17,6 +17,8 @@ A solid understanding of population genetics theory is necessary and essential f
 
 ### How to estimate effective population size?
 
+- ***temporal variation of allele frequencies***
+- ***linkage disequilibrium between pairs of segregating loci***
 - Pudovkin AI, Zaykin DV, Hedgecock D. 1996. On the potential for estimating the effective number of breeders from heterozygote-excess in progeny. Genetics 144(1):383-387. [link](https://doi.org/10.1093/genetics/144.1.383) &nbsp; &nbsp; ***heterozygote-excess method***
 
 ### How to interpret STRUCTURE or ADMIXTURE results?
