@@ -6,6 +6,11 @@ date: 2024-08-14
 
 A solid understanding of population genetics theory is necessary and essential for correct interpretation of genomic data and patterns. Here I compiled a list of papers that I found helpful to build up the knowledge foundation for understanding the theory and analytical methods. 
 
+### Books
+
+- Charlesworth B, Charlesworth D. 2010. *Elements of Evolutionary Genetics.* Roberts & Co., Greenwood Village, Co.
+- Felsenstein J. 2019. *Theoretical Evolutionary Genetics.* [link](https://felsenst.github.io/pgbook/pgbook.html)
+
 ### Overview articles
 
 - Charlesworth B, Charlesworth D. 2017. Population genetics from 1966 to 2016. Heredity 118(1):2-9. [link](https://doi.org/10.1038/hdy.2016.55) &nbsp; &nbsp; ***Some major questions and controversies in population genetics.***
