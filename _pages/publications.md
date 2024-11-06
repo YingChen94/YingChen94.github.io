@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed articles
-*  Kosch TA, Torres-Sánchez M, Liedtke HC, Summers K, Yun MH, Crawford AJ, Maddock ST, Ahammed Md.S, Araújo VLN, Bertola LV, Bucciarelli G, Carné A, Carneiro CM, Chan KO, **Chen Y**, et al. (2024). The Amphibian Genomics Consortium: advancing genomic and genetic resources for amphibian research and conservation. <i>BMC Genomics</i> 25, 1025. <a href="https://doi.org/10.1186/s12864-024-10899-7"> 10.1101/2024.06.27.601086</a>.
+*  Kosch TA, Torres-Sánchez M, Liedtke HC, Summers K, Yun MH, Crawford AJ, Maddock ST, Ahammed Md.S, Araújo VLN, Bertola LV, Bucciarelli G, Carné A, Carneiro CM, Chan KO, **Chen Y**, *et al.* (2024). The Amphibian Genomics Consortium: advancing genomic and genetic resources for amphibian research and conservation. <i>BMC Genomics</i> 25, 1025. <a href="https://doi.org/10.1186/s12864-024-10899-7"> 10.1101/2024.06.27.601086</a>.
 *  **Chen Y**, Tournayre O, Tian H, Lougheed SC. (2023). Assessing the breeding phenology of a threatened frog species using eDNA and automatic acoustic monitoring. <i>PeerJ</i> 11:e14679. <a href="https://peerj.com/articles/14679/"> 10.7717/peerj.14679</a>. (Chen and Tournayre contributed equally to this work)
 *  **Chen Y**, Clemente-Carvalho RBG, Lougheed SC. (2021). Seasonal shift in the age structure of calling males within a spring peeper (<i>Pseudacris crucifer</i>) chorus. <i>Herpetological Review</i> 52(3): 499-506. [pdf](https://YingChen94.github.io/files/Chen.etal.2021.pdf)
 
@@ -16,8 +16,8 @@ author_profile: true
 *  **Chen Y**, Chabot AA, Swanson BJ, Lougheed SC. (2024). Complete mitochondrial genomes of Eastern Massasauga (<i>Sistrurus catenatus</i>) and North American Racer (<i>Coluber constrictor</i>). bioRxiv. DOI <a href="https://doi.org/10.1101/2024.07.24.604992"> 10.1101/2024.07.24.604992</a>. 
 
 ## Technical reports
-* Lougheed SC, Tournayre O, **Chen Y**, Li P, Clemente-Carvalho R, Pearson D, de Salgado MNB, Chabot A, Gabriel L, Swanson BJ, Wolfe R, and Sun Z. (2023). Conservation Genomics of Ontario Blue Racers. Report submitted to Wildlife Preservation Canada.
-* Kahn Z, Robitaille M, **Chen Y**, and Dennison C. (2022). Testing the Use of eDNA as a Tool to Supplement Western Chorus Frog Survey and Monitoring Efforts. Report submitted to Environment and Climate Change Canada.
+* Lougheed SC, Tournayre O, **Chen Y**, Li P, Clemente-Carvalho R, Pearson D, de Salgado MNB, Chabot A, Gabriel L, Swanson BJ, Wolfe R, Sun Z. (2023). Conservation Genomics of Ontario Blue Racers. Report submitted to Wildlife Preservation Canada.
+* Kahn Z, Robitaille M, **Chen Y**, Dennison C. (2022). Testing the Use of eDNA as a Tool to Supplement Western Chorus Frog Survey and Monitoring Efforts. Report submitted to Environment and Climate Change Canada.
 * Lougheed, SC, Li P, Clemente-Carvalho RBG, **Chen Y**, Hickox MK, Cairns NA. (2020). Using Next Generation Sequencing Data to Test for Distinctiveness of Disjunct Regional Populations of Western and Boreal Chorus Frogs in Canada. Report submitted to Environment and Climate Change Canada.
 
 ## Others
