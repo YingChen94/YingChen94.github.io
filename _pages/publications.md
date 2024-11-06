@@ -15,10 +15,13 @@ author_profile: true
 
 *  **Chen Y**, Chabot AA, Swanson BJ, Lougheed SC. (2024). Complete mitochondrial genomes of Eastern Massasauga (<i>Sistrurus catenatus</i>) and North American Racer (<i>Coluber constrictor</i>). bioRxiv. DOI <a href="https://doi.org/10.1101/2024.07.24.604992"> 10.1101/2024.07.24.604992</a>. 
 
+## Technical reports
+* Lougheed SC, Tournayre O, **Chen Y**, Li P, Clemente-Carvalho R, Pearson D, de Salgado MNB, Chabot A, Gabriel L, Swanson BJ, Wolfe R, and Sun Z. (2023). Conservation Genomics of Ontario Blue Racers. Report submitted to Wildlife Preservation Canada.
+* Kahn Z, Robitaille M, **Chen Y**, and Dennison C. (2022). Testing the Use of eDNA as a Tool to Supplement Western Chorus Frog Survey and Monitoring Efforts. Report submitted to Environment and Climate Change Canada.
+* Lougheed, SC, Li P, Clemente-Carvalho RBG, **Chen Y**, Hickox MK, Cairns NA. (2020). Using Next Generation Sequencing Data to Test for Distinctiveness of Disjunct Regional Populations of Western and Boreal Chorus Frogs in Canada. Report submitted to Environment and Climate Change Canada.
+
 ## Others
 *  **Chen Y**. (2021). Herpetofaunal research at the Queen’s University Biological Station. <i>The Canadian Herpetologist</i> 11(1): 10-14. [pdf](https://YingChen94.github.io/files/QUBS-herps.pdf)
-
-
 
 
 
