@@ -11,7 +11,7 @@ author_profile: true
 *  **Chen Y**, Clemente-Carvalho RBG, Lougheed SC. (2021). Seasonal shift in the age structure of calling males within a spring peeper (<i>Pseudacris crucifer</i>) chorus. <i>Herpetological Review</i> 52(3): 499-506. [pdf](https://YingChen94.github.io/files/Chen.etal.2021.pdf)
 
 ## Preprint
-*  **Chen Y**, Lougheed DR, Sun Z, Ethier J, Trudeau VL, Lougheed SC. (2024). Insights on macrosynteny, ‘rebel’ genes, and a new sex-linked region in anurans from comparative genomics and a new chromosome-level genome for the western chorus frog (*Pseudacris triseriata*). DOI <a href="https://doi.org/10.1101/2024.10.27.620512"> 10.1101/2024.10.27.620512</a>.
+*  **Chen Y**, Lougheed DR, Sun Z, Ethier J, Trudeau VL, Lougheed SC. (2024). Insights on macrosynteny, ‘rebel’ genes, and a new sex-linked region in anurans from comparative genomics and a new chromosome-level genome for the western chorus frog (*Pseudacris triseriata*). bioRxiv. DOI <a href="https://doi.org/10.1101/2024.10.27.620512"> 10.1101/2024.10.27.620512</a>.
 
 *  **Chen Y**, Chabot AA, Swanson BJ, Lougheed SC. (2024). Complete mitochondrial genomes of Eastern Massasauga (<i>Sistrurus catenatus</i>) and North American Racer (<i>Coluber constrictor</i>). bioRxiv. DOI <a href="https://doi.org/10.1101/2024.07.24.604992"> 10.1101/2024.07.24.604992</a>. 
 
