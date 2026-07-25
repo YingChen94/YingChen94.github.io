@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-👋 Hi, I'm Ying Chen — a bioinformatician at the Vertebrate Genome Lab at Rockefeller University.
+👋 Hi, I'm Ying Chen.
+
+👩‍💻 I am a bioinformatician at the Vertebrate Genome Lab at Rockefeller University.
 
 🎓 I obtained my PhD in Biology from Queen's University in Canada.
 
