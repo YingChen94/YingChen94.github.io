@@ -1,7 +1,7 @@
 # main links, you can find it under _pages
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
   - title: "Blog Posts"
     url: /year-archive/
